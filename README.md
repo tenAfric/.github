@@ -1,2 +1,1 @@
-# .github
-company description
+# welcome to tenAfrik
